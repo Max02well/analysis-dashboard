@@ -42,7 +42,7 @@ next-env.d.ts
 
 #files
 *.csv
-*.xlsx
+# *.xlsx
 /tmp/
 
 #python env & cache
